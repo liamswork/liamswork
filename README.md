@@ -1,5 +1,7 @@
-# Liam Wylie
-## **Syntax Test **
+<h1 align="center">
+Liam Wylie
+</h1>
+## ** Syntax Test **
 
 - 👋 Hi, I’m Liam Wylie.
 - 👀 I'm a web developer based in Norfolk.
