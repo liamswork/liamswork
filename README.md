@@ -40,13 +40,13 @@ Find me on:
 - 💼 [LinkedIn](https://www.linkedin.com/feed/)
 - 📘 [Facebook](https://www.facebook.com/liam.t.wylie)
 
-### Code Logos
+### Coding Languages
 
-Here are some code logos to showcase what I'm capable of:
+Here are some coding languages I have experience with:
 
-- HTML/CSS: ![HTML/CSS Logo](https://img.icons8.com/color/48/000000/html-5.png)
-- JavaScript: ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
-- PHP: ![PHP Logo](https://img.icons8.com/ios/50/000000/php-logo.png)
-- Laravel: ![Laravel Logo](https://laravel.com/img/logotype.min.svg)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
+![Laravel](https://img.shields.io/badge/Laravel-Learning-orange)
 
 Thanks for stopping by, and let's code, explore, and enjoy life together! 🚀🌄☕🍔🌐
