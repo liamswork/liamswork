@@ -1,35 +1,24 @@
-# Hi there! 👋 I'm Liam Wylie
+# I'm Liam Wylie
 
-🌐 Web Developer | ☕ Coffee Lover | 🏞️ Explorer
+🌐 Web Developer
 
-Welcome to my coding journey! I'm passionate about crafting web experiences that blend design, logic, and interactivity into beautiful, user-centric creations. Let me tell you a bit about myself:
+Trying to make sense of the vortex full-stack development
 
-## 👨‍💻 Web Developer Extraordinaire
+## 👨‍💻 Web Dev
 
-- 💼 Currently learning Laravel
-- 🚀 Specialties: HTML, CSS, JavaScript, PHP
-- 💻 Portfolio: [Check it out here](https://liam-wylie.netmatters-scs.co.uk/)
+- 💼 Working full-time as a web dev
+- 🚀 Specialties: Laravel Jetstream (Vue/Inertia) and Wordpress
+- 💻 Portfolio: Being rebuilt. Coming soon™
 - 📚 Always seeking to expand my tech horizons
 
-## 🌍 Explorer of the Great Outdoors
+## 🌟 My ethic
 
-When I'm not knee-deep in code, you'll often find me out in the wilderness. I have a deep passion for exploring remote places, camping, and hiking with groups of adventurous friends. The digital world is amazing, but disconnecting and embracing the beauty of nature is equally important to me.
+Without sounding too cliché, I believe in a hard honest days work.
 
-## ☕ Coffee Connoisseur
+Fighting imposter syndrome has been a tough battle, but I heard someone once say, measure where you are, then 1 month later, measure again.
+If you're happy with your progress, or if you think you're at least making any progress at all, then you have nothing to fear.
 
-One of my daily rituals is indulging in a perfect cup of coffee. I'm a true coffee aficionado, always on the lookout for the best brew in town. Feel free to share your favorite coffee spots with me!
-
-## 🍔 Lover of American Comfort Food
-
-I can't resist the allure of classic American comfort food. Diner-esque restaurants are my go-to spots for mouthwatering burgers, hearty breakfasts, and all things deliciously indulgent.
-
-## 🌟 Why Web Development?
-
-Without sounding too cliché, let me explain why web development is my passion:
-
-Web development is an art that marries design, logic, and interactivity to create seamless user experiences. Crafting a well-balanced website or application is incredibly rewarding, and it's a testament to the power of technology.
-
-But what makes web development truly magical is the people. This field brings together a diverse group of talented individuals from various backgrounds. Collaborating with such a dynamic community allows us to create captivating and inviting content that impacts users worldwide.
+This has really resonated with me, and so I look forward to each new challenge (not in the way you might say on your CV, but with a genuine competitve desire to complete something you originally thought was out of your reach).
 
 ### Let's Connect
 
@@ -49,4 +38,4 @@ Here are some coding languages I have experience with:
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
 ![Laravel](https://img.shields.io/badge/Laravel-Learning-orange)
 
-Thanks for stopping by, and let's code, explore, and enjoy life together! 🚀🌄☕🍔🌐
+Thanks for stopping by.
