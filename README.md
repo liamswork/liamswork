@@ -2,7 +2,7 @@
 
 🌐 Web Developer
 
-Trying to make sense of the vortex full-stack development
+Trying to make sense of the vortex full-stack development world
 
 ## 👨‍💻 Web Dev
 
